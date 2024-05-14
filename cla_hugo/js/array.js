@@ -1,0 +1,11 @@
+let dSemana = ["domingo","segunda","terça","quarta","quinta","sexta","sabado"]
+ console.log(dSemana.length)
+ console.log(dSemana.toString)
+ console.log(dSemana[1])
+ console.log(dSemana.join())
+ console.log(dSemana.)
+ console.log(dSemana.)
+ console.log(dSemana.)
+ console.log(dSemana.)
+ console.log(dSemana.)
+ console.log(dSemana.)
